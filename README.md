@@ -19,11 +19,3 @@ The Bank Management System is a simple Java Swing application that provides basi
 
 - Java
 - Swing (for GUI)
-
-## Project Structure
-
-- `BankManagementSystem.java`: The main application class that sets up the GUI and handles user interactions.
-- `Customer.java`: Represents a customer with details like name, address, age, and phone number.
-- `Account.java`: Represents a bank account with functionalities to deposit, withdraw, and check balance.
-- `Bank.java`: Manages a list of accounts and provides methods to add accounts and check balances.
-- `Transaction.java`: Represents a transaction with type and amount.
